@@ -6,6 +6,6 @@ This is a series of tutorials on octave that start programming in octave from th
 https://youtube.com/playlist?list=PLffO0PKa_AqEfbeYHJL_ZH6PA86Xgd6zZ
 
 
-The labs folder contain labs from the Fundamentals of Communication Systems course in Ain Shams University.
+The labs folder contain labs from the Fundamentals of Communication Systems course in Ain Shams University. It also contains the sheets solution.
 
 The examples folder contain examples from tutorials on youtube.
